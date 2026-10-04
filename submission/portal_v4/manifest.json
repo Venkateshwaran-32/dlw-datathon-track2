@@ -1,0 +1,29 @@
+{
+  "model": "capped-spend base logistic C=.3 plus night_new_device",
+  "public_csv_id": 3965,
+  "public_pr_auc": 0.19095,
+  "exploratory_deviation": "Original +.010 mean gates missed narrowly; five fold seeds and two other holdouts improved. One public probe authorized by user.",
+  "training_rows": 20000,
+  "test_rows": 12000,
+  "hidden_style_rows_verified": 20000,
+  "csv_delta": 9.974659986866641e-17,
+  "fresh_process_delta": 7.771561172376096e-16,
+  "no_training_cells": true,
+  "file_sha256": {
+    "model.json": "fbb6f59aa0188ab6c3f0fbfee682857e7de196f445dd07cca37c0fc1d72d77aa",
+    "prediction.ipynb": "f6ec5554131f95dd6d69e5548df12437af476ea0118522a31fc1b31bd8c8cb2e",
+    "battleshots_predictions.csv": "498fcd13ec3a86f8e3ad3157a60a9d56d8f812f045f8f43d354210b058466658",
+    "technical_report.pdf": "ae2c40c8c449cd6e610edb43ae679cdb7f6c4bdbe38208cbd69155728faa7292"
+  },
+  "csv_sha256": "498fcd13ec3a86f8e3ad3157a60a9d56d8f812f045f8f43d354210b058466658",
+  "report_pages": 1,
+  "report_status": "uploaded_passed",
+  "portal_package_version": 4,
+  "portal_package_hash_prefix": "794295cdcd",
+  "portal_sandbox_status": "passed",
+  "portal_reference_csv": 3965,
+  "portal_reference_comparison": "not applicable (sandbox20k vs public12k)",
+  "final_entry_saved": true,
+  "final_entry_persisted_after_navigation": true,
+  "report_portal_hash_prefix": "ae2c40c8c4"
+}

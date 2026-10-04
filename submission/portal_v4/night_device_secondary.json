@@ -1,0 +1,17 @@
+{
+  "status": "post_gate_diagnostic_only",
+  "sorted_id_block": {
+    "v3_ap": 0.22158242190248548,
+    "candidate_ap": 0.2343113724022677,
+    "delta": 0.012728950499782232,
+    "validation_rows": 4000,
+    "frauds": 69
+  },
+  "test_like_holdout": {
+    "v3_ap": 0.282095736361593,
+    "candidate_ap": 0.2962617133482361,
+    "delta": 0.01416597698664307,
+    "validation_rows": 6000,
+    "frauds": 164
+  }
+}

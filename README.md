@@ -1,5 +1,7 @@
 # DLW Datathon 2026, Track 2: Intelligent Financial Fraud Detection
 
+> **Current portal submission:** [v4 notebook, model, prediction CSV, report, and validation](submission/portal_v4/). The remainder of this README describes the earlier ensemble.
+
 Binary classification of card and transfer transactions as fraud or legitimate, under heavy class imbalance
 (353 positives in 20,000, a 1.77% base rate). The deliverable is one notebook,
 [`submission/fraud_detection_track2.ipynb`](submission/fraud_detection_track2.ipynb), a serialised model, and a

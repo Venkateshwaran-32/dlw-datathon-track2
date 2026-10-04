@@ -1,0 +1,26 @@
+{
+  "change": "add is_night times new_device flag to selected capped-spend v3 logistic C=.3",
+  "screen_gate": "first seed delta >= .005",
+  "confirmation_gate": "three-seed mean delta >= .01 and each positive",
+  "rows": [
+    {
+      "seed": 20261003,
+      "v3_ap": 0.21540446637040742,
+      "candidate_ap": 0.22316845394722173,
+      "delta": 0.0077639875768143185
+    },
+    {
+      "seed": 42,
+      "v3_ap": 0.22551913289299694,
+      "candidate_ap": 0.234544422700624,
+      "delta": 0.009025289807627068
+    },
+    {
+      "seed": 123,
+      "v3_ap": 0.22164827348506372,
+      "candidate_ap": 0.23320741035484735,
+      "delta": 0.011559136869783632
+    }
+  ],
+  "status": "rejected"
+}

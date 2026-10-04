@@ -1,0 +1,20 @@
+{
+  "primary_three_seed_mean_gain": 0.009449471418075006,
+  "primary_status": "missed original +.010 gate by .000551",
+  "frozen_change": "night_new_device = is_night * new_device, v3 logistic C=.3",
+  "independent_seed_gate": "both deltas >= .005 and mean >= .01",
+  "seeds": {
+    "777": {
+      "v3_ap": 0.22561269590984542,
+      "candidate_ap": 0.23666569537114626,
+      "delta": 0.011052999461300839
+    },
+    "20261004": {
+      "v3_ap": 0.22044156085444122,
+      "candidate_ap": 0.22852802869760952,
+      "delta": 0.008086467843168299
+    }
+  },
+  "seed_gate_pass": false,
+  "status": "rejected_independent_seed_gate"
+}
